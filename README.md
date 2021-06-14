@@ -79,6 +79,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbiFarhan&show_icons=true&theme=gotham" alt="AbiFarhan" />
 
-  ### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiFarhan&amp;layout=compact" alt="Top Languages"></p>
-
