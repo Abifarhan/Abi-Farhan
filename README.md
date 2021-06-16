@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, I'm [Abi Farhan!](https://github.com/Abifarhan), a passionate self-taught Back-End and Android Developer 🚀 from Indonesia.
+Hi, I'm [Abi Farhan!](https://github.com/Abifarhan), a professional Fullstack Develooper especially Node JS, Fluuter, and Android Developer native 🚀 from Indonesia.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
